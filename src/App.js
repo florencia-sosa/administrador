@@ -14,8 +14,7 @@ function App() {
         </Route>
         <Route path="/login">
           <Header />
-          <Login/>
-         
+          <Login/> 
         </Route>
         <Route path="/admin">
         <Header />
